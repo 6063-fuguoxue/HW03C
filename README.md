@@ -1,4 +1,4 @@
-# Homework03C Notes
+# HW03C Notes
 
 For this homework, I assumed that all the dots are connected by pairs. Therefore, the workflow is as follows: 
 <ol>
