@@ -21,7 +21,7 @@ function draw() {
     dots.push(dot);
   }
 
-  // Solution 1: connect dots by pairs
+  // Connect dots by pairs
   for (let j=0; j<numLines; j++){
     line(dots[j].x, dots[j].y, dots[j+numLines].x, dots[j+numLines].y);
   }
